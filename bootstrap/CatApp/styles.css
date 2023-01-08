@@ -9,3 +9,7 @@
     border-style: solid;
     border-radius: 50%;
   }
+
+  .form-control {
+    width: 1005;
+  }
